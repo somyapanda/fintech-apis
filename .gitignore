@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .env
+*.pdf 
+Images/ 
+README 2.md
