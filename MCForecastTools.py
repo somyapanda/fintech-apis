@@ -13,7 +13,6 @@ class MCSimulation:
     ...
     
     Attributes
-    ----------
     portfolio_data : pandas.DataFrame
         portfolio dataframe
     weights: list(float)
